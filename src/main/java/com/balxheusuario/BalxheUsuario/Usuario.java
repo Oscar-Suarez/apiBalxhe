@@ -5,7 +5,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+//equis
 @Entity//esta anotación nos dice que User.java es una entidad de una base de datos, y que sus datos persistiran
 @Table(name="usuario") //especificia que la informacion se guardara en una tabla llamada "usuarios" dentro de mi BD
 
